@@ -1,6 +1,6 @@
 # IDA2-2019
 
-## [Проверочная по NLP 1](https://forms.gle/bgun2sH9VX6AHyFV8)
+[Проверочная по NLP 1](https://forms.gle/bgun2sH9VX6AHyFV8)
 
 
 [проверочная по лекции 1 RL](https://goo.gl/forms/kh8UwwOEGrOZIigF2)
