@@ -1,5 +1,3 @@
-login:skrynnik
-pass: 2019IDA2019
 # IDA2-2019
 
 [Проверочная по NLP 1](https://forms.gle/bgun2sH9VX6AHyFV8)
