@@ -1,5 +1,5 @@
 # IDA2-2019
-
+[Проверочная по NLP 2](https://forms.gle/ZqK9wT9idTyJoUuS9)
 [Проверочная по NLP 1](https://forms.gle/bgun2sH9VX6AHyFV8)
 
 
